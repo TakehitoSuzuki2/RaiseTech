@@ -9,20 +9,20 @@
 
 * 講義のエビエビデンス
   - 1.サンプルアプリケーションのデプロイ成功
-    ![img01](img/img01.png)
+    ![img01](img/lecture3/img01.png)
   - 2.ブラウザでアクセス完了
-    ![img02](img/img02.png)
+    ![img02](img/lecture3/img02.png)
   - 3.APサーバ　Puma ver5.6.8
-    ![img02](img/img03.png)
+    ![img02](img/lecture3/img03.png)
   - 4.APサーバ停止後にアクセス
-    ![img04](img/img04.png)
+    ![img04](img/lecture3/img04.png)
   - 5.DBサーバ　MySQL ver8.0.36　
-    ![img02](img/img03.png)
+    ![img02](img/lecture3/img05.png)
   - 6.DBサーバ停止後にアクセス
-    ![img06](img/img06.png)
+    ![img06](img/lecture3/img06.png)
   - 7.DBサーバ起動後にアクセス
-    ![img02](img/img07.png)
+    ![img02](img/lecture3/img07.png)
   - 8.Railsの構成管理ツール
-    ![img08](img/img08.png)
+    ![img08](img/lecture3/img08.png)
 
 
