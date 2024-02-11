@@ -16,6 +16,9 @@
     ![img03](img/lecture4/img03.png)
     ![img04](img/lecture4/img04.png)
     ![img05](img/lecture4/img05.png)
+    - 3.1 RDSにおけるサブネットの補足
+      ![img06](img/lecture4/img06.png)
+      ![img07](img/lecture4/img07.png)
   - 4.ECSからRDSに接続<br>
-  　![img06](img/lecture4/img06.png)
+  　![img06](img/lecture4/img08.png)
    
