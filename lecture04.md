@@ -9,13 +9,13 @@
 
 * 講義のエビエビデンス
   - 1.VPCの作成
-    ![img01](img/lecture04/img01.png)
+    ![img01](img/lecture4/img01.png)
   - 2.EC2の作成
-    ![img02](img/lecture04/img02.png)
+    ![img02](img/lecture4/img02.png)
   - 3.RDSの作成
-    ![img03](img/lecture04/img03.png)
-    ![img04](img/lecture04/img04.png)
-    ![img05](img/lecture04/img05.png)
+    ![img03](img/lecture4/img03.png)
+    ![img04](img/lecture4/img04.png)
+    ![img05](img/lecture4/img05.png)
   - 4.ECSからRDSに接続
-  　![img06](img/lecture04/img06.png)
-  
+  　![img06](img/lecture4/img06.png)
+   
