@@ -16,6 +16,6 @@
     ![img03](img/lecture4/img03.png)
     ![img04](img/lecture4/img04.png)
     ![img05](img/lecture4/img05.png)
-  - 4.ECSからRDSに接続
+  - 4.ECSからRDSに接続<br>
   　![img06](img/lecture4/img06.png)
    
